@@ -1,0 +1,25 @@
+h1{
+    color: rgb(0, 255, 55);
+}
+/* *{border: solid;}*/
+
+.divya{
+    background-color : rgba(53, 136, 115, 0.774) ;
+    display: flex;
+    justify-content: space-between;
+
+}
+.divya6{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.divya6{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    display: flex;
+    justify-content: center;
+}
+
